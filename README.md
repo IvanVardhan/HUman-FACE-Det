@@ -12,3 +12,9 @@ And then we combined both the original dataset and augmented dataset and given i
 Our model is able to give the accuracy of 98.8.
 Our model can be further developed and can be useful for the systems like face based attendance systems.
 Thank you.
+
+MAIN CONTRIBUTORS
+
+1. BharathRaj
+2. SathiyaPriyan
+3. HariVardhan
